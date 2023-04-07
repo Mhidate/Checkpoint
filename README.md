@@ -4,7 +4,7 @@ Web untuk menampung data dari alat IoT berupa Lora dan RFID reader .web di bangu
 Nama file,variabel masih asal asalan karena sambil belajar php jadi kurang terlalu mikirin nama file dan variabel .
 Masih belum clean code
 
-![Screenshot (42)](https://user-images.githubusercontent.com/72199625/230560386-ed9b3add-add6-45ce-9055-b5189e49fe03.png)
+![Screenshot (42)](https://user-images.githubusercontent.com/72199625/230561017-53ba97e6-884d-49db-bf09-c362630eb5e1.png)
 
 
 ![image](https://user-images.githubusercontent.com/72199625/230558285-496a40b3-dced-40ad-9cd5-7ec2c462a722.png)
