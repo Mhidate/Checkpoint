@@ -1,6 +1,6 @@
 # Checkpoint
 
-Web untuk menampung data dari alat IoT berupa Lora dan RFID reader .web di bangun PHP native saat PHP versi 7,database Mysql .
+Web untuk menampung data dari alat IoT berupa Lora dan RFID reader .web di bangun dengan PHP native saat PHP versi 7,database Mysql .Web tersedia dasboard admin ,beranda dan peta bisa di akses oleh siapa saja.
 Nama file,variabel masih asal asalan karena sambil belajar php jadi kurang terlalu mikirin nama file dan variabel .
 
 ![Screenshot (42)](https://user-images.githubusercontent.com/72199625/230561017-53ba97e6-884d-49db-bf09-c362630eb5e1.png)
