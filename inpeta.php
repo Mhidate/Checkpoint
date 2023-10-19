@@ -92,7 +92,7 @@
 
     <script>
     var mymap = L.map('mapid').setView([-8.3730354, 116.4608215], 12);
-    L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
 
     }).addTo(mymap);
