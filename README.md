@@ -5,17 +5,28 @@ Nama file,variabel masih asal asalan karena sambil belajar php jadi kurang terla
 
 # Dasboard Admin
 
-![Screenshot (42)](https://user-images.githubusercontent.com/72199625/230561017-53ba97e6-884d-49db-bf09-c362630eb5e1.png)
+![Screenshot (115)](https://github.com/Mhidate/Checkpoint/assets/72199625/d3cc74c5-c8dc-45d2-b5a6-3a1a72a290e1)
 
+![Screenshot (117)](https://github.com/Mhidate/Checkpoint/assets/72199625/5fca4157-130d-4127-800d-872168e7f4e1)
 
-![image](https://user-images.githubusercontent.com/72199625/230558285-496a40b3-dced-40ad-9cd5-7ec2c462a722.png)
+![Screenshot (124)](https://github.com/Mhidate/Checkpoint/assets/72199625/d2c94f3c-80b0-475d-a90c-09ed04667428)
+
+![Screenshot (119)](https://github.com/Mhidate/Checkpoint/assets/72199625/88007d29-5090-4ab6-b28e-b86fcf71cf07)
+
+![Screenshot (128)](https://github.com/Mhidate/Checkpoint/assets/72199625/98545425-f35f-4342-af33-496ad42c592b)
+
+![Screenshot (129)](https://github.com/Mhidate/Checkpoint/assets/72199625/077b18c5-1e87-4039-b54e-4514e24c2b2e)
+
+![Screenshot (121)](https://github.com/Mhidate/Checkpoint/assets/72199625/92f9590c-815e-44da-aafc-f771f28e44eb)
 
 # Beranda
 
-![image](https://user-images.githubusercontent.com/72199625/230558321-591cc7ca-330b-40b3-a62a-2a3cc69e694e.png)
+![Screenshot (125)](https://github.com/Mhidate/Checkpoint/assets/72199625/4473bcc1-1dd3-442a-9928-0bd76bd1fbb7)
+
 
 # Peta
 
-![image](https://user-images.githubusercontent.com/72199625/230558370-2c9d5ce1-c05c-47e2-8643-e3c5b7425382.png)
+![Screenshot (123)](https://github.com/Mhidate/Checkpoint/assets/72199625/530efb51-b3c7-47b6-86d8-f1a5a328584f)
+
 
 Peta menggunakan openstreetmap
