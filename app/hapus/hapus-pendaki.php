@@ -10,7 +10,7 @@ if( isset($_GET['nik']) ){
 	$query = mysqli_query($db, $sql);
 	
 	if( $query ){
-		header('Location: data-pendaki.php');
+		header('Location: ../../routes/data-pendaki-page.php');
 	} else {
 		die("gagal menghapus...");
 	}
