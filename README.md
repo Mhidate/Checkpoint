@@ -13,7 +13,9 @@ Nama file,variabel masih asal asalan karena sambil belajar php jadi kurang terla
 
 ![Screenshot (119)](https://github.com/Mhidate/Checkpoint/assets/72199625/88007d29-5090-4ab6-b28e-b86fcf71cf07)
 
-![Screenshot (127)](https://github.com/Mhidate/Checkpoint/assets/72199625/1ce0ad49-fd1d-4374-a8f3-1dc055db546d)
+![Screenshot (128)](https://github.com/Mhidate/Checkpoint/assets/72199625/98545425-f35f-4342-af33-496ad42c592b)
+
+![Screenshot (129)](https://github.com/Mhidate/Checkpoint/assets/72199625/077b18c5-1e87-4039-b54e-4514e24c2b2e)
 
 ![Screenshot (121)](https://github.com/Mhidate/Checkpoint/assets/72199625/92f9590c-815e-44da-aafc-f771f28e44eb)
 
